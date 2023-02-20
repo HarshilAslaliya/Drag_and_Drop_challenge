@@ -1,16 +1,9 @@
 # drag_drop_game
 
-A new Flutter project.
 
-## Getting Started
+https://user-images.githubusercontent.com/121867931/220010739-903ee6dd-0e45-45b2-ba19-64ad248aebd4.mp4
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align='left' src="https://user-images.githubusercontent.com/121867931/220010501-5e9796bb-9612-443d-8a82-beff0761ab5b.png" width="200" height="450">
+<img src="https://user-images.githubusercontent.com/121867931/220010502-4b1061cd-acf2-45b4-9b39-8a45fff5a175.png" width="200" height="450">
